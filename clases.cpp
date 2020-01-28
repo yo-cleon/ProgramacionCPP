@@ -61,7 +61,7 @@ int main() {
   cout << "\t" << car2.marca << endl;
   cout << "\t" << car2.kms << endl;
   // This function is private so is not allowed and an error occurs
-  car2.arrancar(); 
+  car2.arrancar();
   cout << "******************\n";
   return 0;
 
