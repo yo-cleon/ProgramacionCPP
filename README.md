@@ -1,4 +1,4 @@
-#Programción en C++
+# Programción en C++
 
 Ejercicios didáctios para prácticar el uso de los principios C++ siguiendo
 el tutorial de https://www.w3schools.com/cpp/default.asp
