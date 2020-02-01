@@ -14,3 +14,6 @@ la llamada a las mismas.
 ## Archivo clases.cpp:
 Se utiliza para ver la declaración de clases, el uso de constructores y
 los especificadores de acceso
+
+## Archivo herencia.cpp:
+Mostramos el uso de la herencia entre clases y el polimorfismo.

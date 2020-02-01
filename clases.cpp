@@ -30,14 +30,13 @@ public:
   string marca;
   int kms;
   // Using a constructor with parameters
-  myCar2(string x, int y) {
+    myCar2(string x, int y) {
     marca = x;
     kms = y;
   }
 
   //Definition of a method/function INSIDE a class
-  private:
-    void arrancar() {
+  void arrancar() {
     cout << "Este coche también acelera \n";
   };
 };
